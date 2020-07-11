@@ -2,3 +2,5 @@ matplotlib
 numpy
 PyGithub
 jupyterlab
+requests
+pprint
